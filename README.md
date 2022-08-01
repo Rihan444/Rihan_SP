@@ -5,6 +5,8 @@ apt upgrade
 
 pkg install python
 
+pip install requests
+
 pkg install git
 
 git clone https://github.com/Rihan444/Rihan_SP
